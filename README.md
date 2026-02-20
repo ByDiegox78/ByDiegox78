@@ -1,6 +1,7 @@
 
 
 # 👋 Bienvenido a mi perfil de GitHub
+<img align="right" width=100px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 Soy un pequeño desarrollador en formación que busca enfocarse en **backend**.  
 Mis conocimientos son limitados, pero como todos dicen:  
@@ -28,6 +29,13 @@ public record WhoAmI {
 - ⚡ Aprender sobre backend
 - 🔍 Investigar cómo funcionan las cosas por dentro
 
+| Hola      | Profe      | No         |
+|:---------:|:-----------:|:-----------:|
+| Se        | Que        | Poner      |
+| En        | La         | Tabla      |
+| Acepto    | Cualquier  | Sugerencia |
+
+
 
 
 
@@ -48,8 +56,7 @@ public record WhoAmI {
 
 
 ## 📫 Contáctame
-   <a href="https://mail.google.com/mail/?view=cm&to=dgm170104@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8135B4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=8135B4&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&to=dgm170104@gmail.com)
 </a>
 
 
@@ -68,7 +75,10 @@ public record WhoAmI {
 
   <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
+</br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=Gracias+por+visitar+mi+perfil!;)](https://git.io/typing-svg)
+
 
 
 
