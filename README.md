@@ -23,17 +23,17 @@ public record WhoAmI {
 
 
 
-# 🛠️ Tecnologías y Conocimientos
-Aqui estan las tecnologia que actuamente tengo conocimientos
+# 🛠️ Tecnologías que usp
 
-## *💻 Lenguajes de Programación*
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## *🌐 Control de Versiones*
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-FFA500?style=for-the-badge&logo=github&logoColor=white)
-                                                                                              
-## *🛢️ Bases de Datos*
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)   ![H2](https://img.shields.io/badge/H2-0067C5?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-512BD4?style=for-the-badge&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-7F52FF?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-512BD4?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-7F52FF?style=for-the-badge&logo=sqlite&logoColor=white) 
+![H2](https://img.shields.io/badge/H2-A855F7?style=for-the-badge)
 
 
 
@@ -41,6 +41,8 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 <a href="mailto:dgm170104@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+## Contribuviones 
 
 ---
 
@@ -51,7 +53,7 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 </picture>
 
 ---
-## 📈 Estadisticas
+## 📈 GitHub Stats
 
   <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
