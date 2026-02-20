@@ -38,7 +38,9 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 
 
 ## 📫 Contáctame
-- 📧 [Correo Electrónico](https://mail.google.com/mail/?view=cm&to=dgm170104@gmail.com)
+<a href="mailto:dgm170104@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 ---
 
@@ -49,7 +51,7 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 </picture>
 
 ---
+## 📈 Estadisticas
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+  <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
