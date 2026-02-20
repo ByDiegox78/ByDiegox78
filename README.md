@@ -1,8 +1,13 @@
 
 
-# ✋ Bienvenido a mi Github
-Bienvenido a mi perfil de Github. Soy en pequeño desarrollador en formacion que busca enforcarse en el backend.
-Actualmente mis conocimientos son bastante limitados, pero por algo dicen que una casa no se comienza por el tejado
+# 👋 Bienvenido a mi perfil de GitHub
+
+Soy un pequeño desarrollador en formación que busca enfocarse en **backend**.  
+Actualmente mis conocimientos son limitados, pero como dicen:  
+*"Una casa no se comienza por el tejado"* 🏠✨
+
+
+
 
 
 
@@ -27,7 +32,7 @@ public record WhoAmI {
 
 
 ## 🛠️ Tecnologías que uso
-<div align="center">
+
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -39,14 +44,14 @@ public record WhoAmI {
 ![SQLite](https://img.shields.io/badge/SQLite-7F52FF?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![H2](https://img.shields.io/badge/H2-A855F7?style=for-the-badge)
 
-</div>
-
 
 
 ## 📫 Contáctame
 <a href="mailto:dgm170104@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+
 
 ## 🚀 Contribuciones 
 
@@ -59,11 +64,12 @@ public record WhoAmI {
 </picture>
 
 
-<div align="center">
 
 ## 📈 GitHub Stats
 
-
   <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+</br>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=Gracias+por+visitar+mi+perfil!;)](https://git.io/typing-svg)
+
