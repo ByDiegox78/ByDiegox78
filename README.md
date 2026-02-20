@@ -2,6 +2,8 @@
 Bienvenido a mi perfil de Github. Soy en pequeño desarrollador en formacion que busca enforcarse en el backend.
 Actualmente mis conocimientos son bastante limitados, pero por algo dicen que una casa no se comienza por el tejado
 
+
+
 # 👨‍💻 ¿Quién soy yo?
 ```c#
 public record WhoAmI {
@@ -11,10 +13,15 @@ public record WhoAmI {
     public int CursoActual { get; } = 1;
 }
 ```
+
+
+
 # 🎯 Hobbies y Motivación
 - Programar proyectos
 - Aprender sobre backend
 - Investigar cómo funcionan las cosas por dentro
+
+
 
 # 🛠️ Tecnologías y Conocimientos
 Aqui estan las tecnologia que actuamente tengo conocimientos
@@ -28,8 +35,12 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 ## *🛢️ Bases de Datos*
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)   ![H2](https://img.shields.io/badge/H2-0067C5?style=for-the-badge)
 
+
+
 ## 📫 Contáctame
-- 📧 [Correo Electrónico](mailto:dgm170104@gmail.com)
+- 📧 [Correo Electrónico](https://mail.google.com/mail/?view=cm&to=dgm170104@gmail.com)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph-dark.svg">
@@ -37,8 +48,8 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
-
-
-
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
