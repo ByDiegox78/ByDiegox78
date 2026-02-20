@@ -66,8 +66,7 @@ public record WhoAmI {
 
 ## 📈 GitHub Stats
 
-  ![GitHub Profile Summary](https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3)
-</br>
+  <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=Gracias+por+visitar+mi+perfil!;)](https://git.io/typing-svg)
 
