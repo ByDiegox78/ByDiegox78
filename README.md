@@ -39,6 +39,8 @@ public record WhoAmI {
 ![HTML5](https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-512BD4?style=for-the-badge&logo=css3&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-7F52FF?style=for-the-badge&logo=git&logoColor=white) 
+</br>
+
 ![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-512BD4?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-7F52FF?style=for-the-badge&logo=sqlite&logoColor=white) 
