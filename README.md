@@ -33,5 +33,17 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 
 
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
 
 
