@@ -1,11 +1,13 @@
 
 
 # 👋 Bienvenido a mi perfil de GitHub
-<img align="right" width=100px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 Soy un pequeño desarrollador en formación que busca enfocarse en **backend**.  
 Mis conocimientos son limitados, pero como todos dicen:  
 *"Una casa no se comienza por el tejado"* 🏠✨
+
+
+
 
 
 
