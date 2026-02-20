@@ -15,7 +15,6 @@ public record WhoAmI {
 - Programar proyectos
 - Aprender sobre backend
 - Investigar cómo funcionan las cosas por dentro
-- Dejando atras la filosofia de si compila funciona
 
 # 🛠️ Tecnologías y Conocimientos
 Aqui estan las tecnologia que actuamente tengo conocimientos
@@ -31,5 +30,10 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 
 ## 📫 Contáctame
 - 📧 [Correo Electrónico](mailto:dgm170104@gmail.com)
+
+<p align="center">
+<i>"Si compila a la primera, sospecha."</i>
+</p>
+
 
 
