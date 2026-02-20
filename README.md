@@ -31,9 +31,7 @@ Aqui estan las tecnologia que actuamente tengo conocimientos
 ## 📫 Contáctame
 - 📧 [Correo Electrónico](mailto:dgm170104@gmail.com)
 
-<p align="center">
-<i>"Si compila a la primera, sospecha."</i>
-</p>
+
 
 
 
