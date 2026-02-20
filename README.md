@@ -48,7 +48,7 @@ public record WhoAmI {
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-## Contribuciones 
+## 🚀 Contribuciones 
 
 ---
 
@@ -58,9 +58,11 @@ public record WhoAmI {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph.svg">
 </picture>
 
----
-## 📈 GitHub Stats
+
 <div align="center">
+
+## 📈 GitHub Stats
+
 
   <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
