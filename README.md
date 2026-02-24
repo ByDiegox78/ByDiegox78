@@ -36,7 +36,7 @@ public record WhoAmI {
 
 
 
-## 🛠️ Tecnologías que uso
+# 🛠️ Tecnologías que uso
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -52,13 +52,13 @@ public record WhoAmI {
 
 
 
-## 📫 Contáctame
+# 📫 Contáctame
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=8135B4&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&to=dgm170104@gmail.com)
 </a>
 
 
 
-## 🚀 Contribuciones 
+# 🚀 Contribuciones 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByDiegox78/ByDiegox78/output/pacman-contribution-graph-dark.svg">
@@ -68,7 +68,7 @@ public record WhoAmI {
 
 
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
   <img src="https://streak-stats.demolab.com?user=ByDiegox78&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
