@@ -31,11 +31,6 @@ public record WhoAmI {
 - ⚡ Aprender sobre backend
 - 🔍 Investigar cómo funcionan las cosas por dentro
 
-| Hola      | Profe      | No         |
-|:---------:|:-----------:|:-----------:|
-| Se        | Que        | Poner      |
-| En        | La         | Tabla      |
-| Acepto    | Cualquier  | Sugerencia |
 
 
 
